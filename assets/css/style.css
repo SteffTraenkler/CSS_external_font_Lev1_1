@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@500&family=Bebas+Neue&family=Cormorant+Garamond:wght@600&family=Kalam&family=Licorice&display=swap');
+
+h1{
+    text-align: center;
+    background-color: rgb(121, 120, 120);
+    padding: 10px;
+}
+
+section p{
+    font-family: 'Cormorant Garamond', serif;
+}
+
+main p{
+    font-family: 'Kalam', cursive;
+}
+
+aside p {
+    font-family: 'Asap Condensed', sans-serif;
+}
+
+nav p {
+    font-family: 'Licorice', cursive;
+    font-size: 20px;
+}
+
+footer p{
+    font-family: 'Bebas Neue', cursive;
+}
